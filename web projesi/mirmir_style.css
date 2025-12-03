@@ -1,0 +1,15 @@
+
+body {
+    background-color: #87CEFA; 
+    color: #00008B; 
+    font-family: Arial, sans-serif;
+    text-align: center; 
+}
+
+
+h1, p, a, li, address, blockquote {
+    color: #00008B;
+    text-align: center;
+}
+
+
